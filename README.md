@@ -55,8 +55,6 @@
 ---
 
 ## 🧪 How to Run
-
-```bash
 javac VisualDebugger.java
 java VisualDebugger
 🧠 Project Idea
